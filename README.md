@@ -1,5 +1,5 @@
 # weather
-The weather app shows the current weather in your city. Using [API](https://openweathermap.org/)
+The weather app shows the current weather in your city. Using API [OpenWeather](https://openweathermap.org/)
 ## Technologies :bulb:
 - [Java 8](https://www.gatsbyjs.com/)
 - [Gradle 8.0](https://gradle.org/)
