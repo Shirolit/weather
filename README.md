@@ -1,7 +1,7 @@
 # weather
 The weather app shows the current weather in your city
 ## Technologies :bulb:
-- **Java 8**([https://www.gatsbyjs.com/](https://www.java.com/ru/))
+- **Java 8**[https://www.gatsbyjs.com/]
 - **Gradle 8.0** (https://gradle.org/)
 - **Bash**
 - **CI/CD** pipeline with GitHub Actions
