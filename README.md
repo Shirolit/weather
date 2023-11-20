@@ -12,5 +12,6 @@ Required software:
 Steps:
 1) Clone this repository `git clone https://github.com/Shirolit/weather`
 2) Run the app using an emulator or install the app on your Android device and run it.
-3) Write your city in the search bar. Then click on the search button.
+3) Give permission to the application to access the Internet.
+4) Write your city in the search bar. Then click on the search button.
  
